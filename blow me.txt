@@ -3,7 +3,7 @@ return {
 		TagText = "Kryptonite Owner",
 		TagColor = Color3.fromRGB(255,95,95)
 	},
-        ["HeatseekerMomentLOL"] = {
+        ["MasterGamerEJE"] = {
                 TagText = "VAPE OWNER",
 		TagColor = Color3.fromRGB(255,95,95)
         }
