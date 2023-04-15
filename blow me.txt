@@ -1,5 +1,5 @@
 return {
-	["UnknownUserIsSmx"] = {
+	["boobies"] = {
 		TagText = "KRYPTONITE OWNER",
 		TagColor = Color3.fromRGB(255,95,95)
 	},
@@ -11,8 +11,8 @@ return {
 		TagText = "yes",
 		TagColor = Color3.fromRGB(255,95,95)
 	},
-	["amongus69"] = {
-		TagText = "deez OWNER",
+	["UnknownUserIsSmx"] = {
+		TagText = "KRYPTONITE OWNER",
 		TagColor = Color3.fromRGB(255,95,95)
 	},
 	["nopedaddy32"] = {
