@@ -1,10 +1,62 @@
 return {
 	["UnknownUserIsSmx"] = {
-		TagText = "Kryptonite Owner",
+		TagText = "KRYPTONITE OWNER",
 		TagColor = Color3.fromRGB(255,95,95)
 	},
-        ["MasterGamerEJE"] = {
-                TagText = "BLOW ME",
+	["randomuser"] = {
+		TagText = "TEST USER",
+		TagColor = Color3.fromRGB(255,95,95)
+	},
+	["SpareSLOT"] = {
+		TagText = "yes",
+		TagColor = Color3.fromRGB(255,95,95)
+	},
+	["amongus69"] = {
+		TagText = "deez OWNER",
+		TagColor = Color3.fromRGB(255,95,95)
+	},
+	["nopedaddy32"] = {
+		TagText = "deez ",
+		TagColor = Color3.fromRGB(255,95,95)
+	},
+	["HeatseekerMomentLOL"] = {
+		TagText = "VAPE OWNER",
+		TagColor = Color3.fromRGB(255,95,95)
+	},
+	["MasterGamerEJE"] = {
+		TagText = "VAPE OWNER",
+		TagColor = Color3.fromRGB(255,95,95)
+	},
+	["SMOOTHDICK"] = {
+		TagText = "VAPE OWNER",
+		TagColor = Color3.fromRGB(255,95,95)
+	},
+	["TEST"] = {
+		TagText = "VAPE OWNER",
+		TagColor = Color3.fromRGB(255,95,95)
+	},
+	["TEST"] = {
+                TagText = "VAPE OWNER",
+		TagColor = Color3.fromRGB(255,95,95)
+        },
+	["TEST"] = {
+                TagText = "VAPE OWNER",
+		TagColor = Color3.fromRGB(255,95,95)
+        },
+	["TEST"] = {
+                TagText = "VAPE OWNER",
+		TagColor = Color3.fromRGB(255,95,95)
+        },
+	["TEST"] = {
+                TagText = "Kryptonite User",
+		TagColor = Color3.fromRGB(255,95,95)
+        },
+	["TEST"] = {
+                TagText = "JOEMAMALMFAO OWNER",
+		TagColor = Color3.fromRGB(255,95,95)
+        },
+        ["TEST"] = {
+                TagText = "VAPE OWNER",
 		TagColor = Color3.fromRGB(255,95,95)
         }
 }
