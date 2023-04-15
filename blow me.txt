@@ -48,7 +48,7 @@ return {
 		TagColor = Color3.fromRGB(255,95,95)
         },
 	["TEST"] = {
-                TagText = "Kryptonite User",
+                TagText = "KRYPTONITE USER",
 		TagColor = Color3.fromRGB(255,95,95)
         },
 	["TEST"] = {
