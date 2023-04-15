@@ -1,5 +1,5 @@
 return {
-	["fis_user4"] = {
+	["UnknownUserIsSmx"] = {
 		TagText = "Kryptonite Owner",
 		TagColor = Color3.fromRGB(255,95,95)
 	},
